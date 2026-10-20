@@ -1,0 +1,6 @@
+# 成本会计学 Python 综合计算器依赖
+# Python 3.9+
+pandas>=2.0
+matplotlib>=3.8
+streamlit>=1.57
+
